@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+> The Mischievous Goblin is both an engineer and an artist. He strives for efficiency as well as elegance. He finds joy in solving problems and admiring beauty.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+<!-- By day, he builds tools for his corporate overlords. Sharp  tools for slicing and blunt tools for bashing. By night he tinkers alone for himself. -->
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Alexandru Pana is (mostly) a frontend engineer from Cluj-Napoca, Romania. He enjoys learning about every aspect of software engineering
+from computer architecture and operating systems to the latest web technologies.
+
+In the past he contributed to [wxWidgets](https://www.wxwidgets.org/news/2014/09/summer-of-code-2014-results/).

@@ -47,9 +47,11 @@
   margin-bottom: 2rem;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #eee;
+  text-align: center;
 }
 
 .related-posts {
+  text-align: center;
   padding-left: 0;
   list-style: none;
 
@@ -61,15 +63,6 @@
     small {
       font-size: 75%;
       color: #999;
-    }
-
-    a:hover {
-      color: #268bd2;
-      text-decoration: none;
-
-      small {
-        color: inherit;
-      }
     }
   }
 }

@@ -38,15 +38,14 @@ a {
   text-decoration: none;
   font-weight: inherit;
   line-height: inherit;
-  -webkit-transition: all .2s ease-in-out;
-  -moz-transition: all .2s ease-in-out;
-  transition: all .2s ease-in-out;
   border-bottom: 1px solid #ddd;
 
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    text-decoration: underline;
+    //text-decoration: underline;
+    color: $link-color;
+    border-bottom: 1px solid #333;
   }
 
   strong {
