@@ -11,4 +11,16 @@ footer {
   margin-bottom: 2rem;
   border-top: 1px solid #ddd;
   padding-top: 1rem;
+
+  .navigation {
+    float: right;
+    text-align: center;
+
+    .separator {
+      color: #ddd;
+      margin-left: 0.1rem;
+      margin-right: 0.1rem;
+    }
+  }
+
 }
