@@ -3,6 +3,14 @@
 }
 
 #archive .entry .date {
-  float: right;
+  display: block;
   color: #ccc;
+}
+
+@media (min-width: 34rem) {
+  #archive .entry .date {
+    float: right;
+    color: #ccc;
+    margin-left: 1rem;
+  }
 }

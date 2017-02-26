@@ -33,18 +33,8 @@
 }
 
 .navigation {
+  float: right;
   text-align: center;
-  margin-top: 1rem;
-
-  a {
-    border: 0;
-    font-family: "Open Sans", sans-serif;
-    font-size: 0.8em;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
 
   .separator {
     color: #ddd;
