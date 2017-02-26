@@ -44,6 +44,8 @@ frequently or which have great value.
 
 ## Inspections
 
+While these won't really improve productivity, they help minimize code complexity.
+
 ### Cyclomatic Complexity
 This is a metric that quantifies the complexity of a piece of
 code (mostly methods) by counting the number of branching points. The more
