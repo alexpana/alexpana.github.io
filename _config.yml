@@ -28,9 +28,9 @@ paginate:         1
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Alexandru Pana
+  url:               https://alexpana.github.io
+  email:             astronothing@gmail.com
 
 # Build settings
 markdown: kramdown
