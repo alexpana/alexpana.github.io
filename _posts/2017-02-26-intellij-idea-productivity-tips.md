@@ -39,6 +39,7 @@ frequently or which have great value.
 | **Misc** |  |
 | Search Action | `Ctrl + Shift + A`|
 | Hide tool windows | `Ctrl + Shift + F12`|
+| Run... | `Alt + Shift + F10` |
 | **Debug** | |
 | Evaluate expression | `Alt + F8` |
 
