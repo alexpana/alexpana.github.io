@@ -10,7 +10,7 @@ do brings something cool like [ligatures](https://d3nmt5vlzunoa1.cloudfront.net/
 or [paramter hints](https://d3nmt5vlzunoa1.cloudfront.net/idea/files/2016/09/Screen-Shot-2016-09-27-at-10.29.15.png).
 They're awesome!
 
-I've gather a collection of features I use daily which some of my peers were
+I've gathered a collection of features I use daily which some of my peers were
 unaware of. I think it's an awesome list for juniors to quickly become productive
 without listing an exhaustive cheat sheet or using an obnoxious key promoter plugin.
 
