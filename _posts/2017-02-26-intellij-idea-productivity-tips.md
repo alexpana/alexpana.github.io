@@ -26,7 +26,7 @@ frequently or which have great value.
 | Goto or create test | `Ctrl + Shift + T`|
 | **Inspection** |  |
 | Quick Definition | `Ctrl + Shift + I`|
-| Show usages (in popup) | `Ctrl + Alt + F7`|
+| Show usages (in popup) | `Ctrl + Alt + 7`|
 | **Edit** |  |
 | Join lines | `Ctrl + Shift + J` |
 | [Complete statement](https://www.jetbrains.com/help/idea/2016.1/completing-statements.html) | `Ctrl + Shift + Enter`|
