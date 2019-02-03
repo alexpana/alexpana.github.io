@@ -25,3 +25,4 @@ group :jekyll_plugins do
    gem "jekyll-gist"
    gem 'jekyll-archives'
 end
+

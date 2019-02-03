@@ -14,7 +14,6 @@ code {
   color: $code-color;
   background-color: $code-bg;
   border-radius: 3px;
-  border: 1px solid;
 }
 
 pre {
@@ -31,7 +30,7 @@ pre code {
 
 // Pygments via Jekyll
 .highlight {
-  padding: 1rem;
+  padding: 0.4rem;
   margin-bottom: 1rem;
   font-size: .8rem;
   line-height: 1.4;
